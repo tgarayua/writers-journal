@@ -7,7 +7,6 @@ function Header() {
             <h1>The Writers Journal</h1>
             <Navbar />
         </>
-
     )
 }
 
